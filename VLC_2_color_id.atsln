@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "VLC_2_color_id", "VLC_2_color_id\VLC_2_color_id.cproj", "{1C59305E-FBA9-4294-8060-BE913D13B8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C59305E-FBA9-4294-8060-BE913D13B8BA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1C59305E-FBA9-4294-8060-BE913D13B8BA}.Debug|AVR.Build.0 = Debug|AVR
+		{1C59305E-FBA9-4294-8060-BE913D13B8BA}.Release|AVR.ActiveCfg = Release|AVR
+		{1C59305E-FBA9-4294-8060-BE913D13B8BA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
